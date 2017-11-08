@@ -11,7 +11,7 @@
 
 set -e
 
-IMAGE="giordanocardillo/janus-post-processor"
+IMAGE="anildigital/janus-post-processor:latest"
 
 
 # Setup options for connecting to docker host
